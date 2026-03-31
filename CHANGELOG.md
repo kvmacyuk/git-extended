@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/kvmacyuk/git-extended/compare/v1.0.0...v1.2.3) (2026-03-31)
+
+
+### Features
+
+* added feature ([3db3271](https://github.com/kvmacyuk/git-extended/commit/3db327138ceae50134210940272e1a1e1a278dee))
+
 # 1.0.0 (2026-03-31)
 
 
